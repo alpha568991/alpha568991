@@ -1,10 +1,10 @@
-# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
+# Senior React | React Native | Typescript | Javascript | Node.js | Python | Java Developer
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
+- 🔭 Full-stack developer with 9+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, Angular as well as back-end technologies like Node.js, Python, Java, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 </div>
@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <br>C/C++
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
